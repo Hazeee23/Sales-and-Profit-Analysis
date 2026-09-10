@@ -1,6 +1,6 @@
 # Superstore Sales & Profit Analysis
 
-##📊 Project Overview
+## 📊 Project Overview
 
 This project analyzes Superstore sales data to identify key business insights related to sales, profit, orders, product categories, regions, and top-performing products.
 
@@ -29,18 +29,20 @@ Excel/CSV
 📈 Total Profit: $286.40K
 📦 Total Orders: 5.09K
 📊 Profit Margin: 12.47%
-Sales Trends
+
+### Sales Trends
 
 The dashboard shows sales and profit trends from 2014 to 2017, helping identify changes in business performance over time.
 
-Sales by Category
+### Sales by Category
 
 The analysis compares sales across the following categories:
 
 Technology
 Furniture
 Office Supplies
-Profit by Region
+
+### Profit by Region
 
 The dashboard analyzes profitability across different regions:
 
@@ -48,11 +50,12 @@ West
 East
 South
 Central
-Top Products by Sales
+
+### Top Products by Sales
 
 The dashboard identifies the Top 10 Products by Sales, helping determine which products generate the highest revenue.
 
-📸 Dashboard Features
+## 📸 Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -63,5 +66,5 @@ Sales by Category chart
 Profit by Region chart
 Top 10 Products by Sales visualization
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 <img width="957" height="538" alt="image" src="https://github.com/user-attachments/assets/9093b1fb-aae0-479a-8a75-b8bfe79931eb" />
