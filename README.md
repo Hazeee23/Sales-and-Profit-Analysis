@@ -1,11 +1,13 @@
-Superstore Sales & Profit Analysis
-📊 Project Overview
+# Superstore Sales & Profit Analysis
+
+##📊 Project Overview
 
 This project analyzes Superstore sales data to identify key business insights related to sales, profit, orders, product categories, regions, and top-performing products.
 
 The interactive dashboard was created using Power BI to help visualize business performance and support data-driven decision-making.
 
-🎯 Objectives
+## 🎯 Objectives
+
 Analyze overall sales and profit performance.
 Monitor total orders and profit margin.
 Identify sales trends over time.
@@ -13,13 +15,14 @@ Compare sales across product categories.
 Analyze profit performance by region.
 Identify the top 10 products by sales.
 
-🛠️ Tools Used
+## 🛠️ Tools Used
+
 Power BI
 Power Query
 DAX
 Excel/CSV
 
-Superstore Sales & Profit Analysis Dashboard
+## Superstore Sales & Profit Analysis Dashboard
 
 📈 Key Insights
 💰 Total Sales: $2.30M
