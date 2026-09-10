@@ -67,4 +67,5 @@ The Power BI dashboard includes:
 - Top 10 Products by Sales visualization
 
 ## 📊 Dashboard Preview
-<img width="957" height="538" alt="image" src="https://github.com/user-attachments/assets/9093b1fb-aae0-479a-8a75-b8bfe79931eb" />
+<img width="1161" height="652" alt="image" src="https://github.com/user-attachments/assets/746ec585-5877-4951-bfcb-d7f66bd76ac9" />
+
