@@ -24,11 +24,11 @@ Excel/CSV
 
 ## Superstore Sales & Profit Analysis Dashboard
 
-📈 Key Insights
-💰 Total Sales: $2.30M
-📈 Total Profit: $286.40K
-📦 Total Orders: 5.09K
-📊 Profit Margin: 12.47%
+## 📈 Key Insights
+### 💰 Total Sales: $2.30M
+### 📈 Total Profit: $286.40K
+### 📦 Total Orders: 5.09K
+### 📊 Profit Margin: 12.47%
 
 ### Sales Trends
 
